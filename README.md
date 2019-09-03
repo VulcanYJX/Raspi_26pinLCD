@@ -21,7 +21,7 @@ wget http://blog.lxx1.com/wp-content/uploads/2017/03/LCD-show-170309.tar.gz
 ```
 
 ```Bash
-sudo tar xzvf /boot/LCD-show-170309.tar.gz
+tar -xzvf /boot/LCD-show-170309.tar.gz
 
 cd LCD-show/
 #选择自己设备对应的驱动，我使用的是3.5寸触摸屏
