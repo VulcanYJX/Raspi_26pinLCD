@@ -17,7 +17,7 @@ How to config a LCD TFT screen
 ```Bash
 cd /boot
 
-sudo wget http://blog.lxx1.com/wp-content/uploads/2017/03/LCD-show-170309.tar.gz
+wget http://blog.lxx1.com/wp-content/uploads/2017/03/LCD-show-170309.tar.gz
 ```
 
 ```Bash
